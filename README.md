@@ -1,4 +1,4 @@
- # Sufficient Explanations and Rules (SER):
+ # Sufficient Explanations and Rules (SER)
 Temporary repository for the paper: **Consistent Sufficient Explanations and Minimal Local Rules for
 explaining the decision of any classifier or regressor**
 
